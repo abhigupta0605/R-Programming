@@ -2,5 +2,6 @@
 using namespace std;
 int main()
 {
-cout<<"helloworld";
+int a=5+7;
+cout<<a;
 }
